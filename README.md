@@ -22,7 +22,7 @@ I am starting to pick up Onshape again. It seems sleeker than Soldiworks, so I'm
  <img src="Images/Screenshot%202020-09-18%20at%203.54.50%20PM.png" width="256">
   <img src="Images/Screenshot%202020-09-18%20at%203.55.00%20PM.png" width="256">
  
- This is the Mount. This is from module 2
+ This is the Mount. This is from module 2.
  Here is the Onshape File:
  
  
