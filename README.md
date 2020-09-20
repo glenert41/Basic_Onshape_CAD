@@ -40,3 +40,14 @@ Here is the Onshape File:
 
 This is my favorite part that we have made so far, as I think the fillets and chamfers make the part look really good. I really appreciate how Onshape lets you have multiple part studios operating at once; it makes creating parts and assembling them much easier. Regarding the Fork itself, it was really cool to see how easy it was to mirror the features, as well as using tangent propogation to help auto-select features.
 
+
+### Tire
+
+<img src="Images/Screenshot%202020-09-20%20at%206.12.26%20PM.png" width="256">
+
+This is the Tire. This is from Module 4.
+Here is the Onshape FIle:
+
+[Tire](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/8374551becc496810e5f66a0)
+
+This was the first part that involved the revole feature. It is still cool to me to see us turn a trapezoid in to a circle. From this lesson, I learned how to change the color of a part (by right clicking the part in the bottom left, then clicking edit appearance), which is super valuable later down the road, especially in assemblies.
