@@ -30,3 +30,13 @@ I am starting to pick up Onshape again. It seems sleeker than Soldiworks, so I'm
 
 As mentioned in the module video, you are able to make the exact same part in different ways. For me, I like extruding the large square first, then going in and cutting the large circle in an extrude, then in another extrude, add the four smaller holes. I feel that this is the easiest way to do it, as it allows for changes to be made easier along the way.
  
+### Fork
+<img src="Images/Screenshot%202020-09-20%20at%205.29.24%20PM.png" width="256">
+
+This is the Fork. This is from module 3.
+Here is the Onshape File:
+
+[Fork](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/2c70e390d47d8d0f66036e7e)
+
+This is my favorite part that we have made so far, as I think the fillets and chamfers make the part look really good. I really appreciate how Onshape lets you have multiple part studios operating at once; it makes creating parts and assembling them much easier. Regarding the Fork itself, it was really cool to see how easy it was to mirror the features, as well as using tangent propogation to help auto-select features.
+
