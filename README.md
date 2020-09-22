@@ -51,3 +51,22 @@ Here is the Onshape FIle:
 [Tire](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/8374551becc496810e5f66a0)
 
 This was the first part that involved the revole feature. It is still cool to me to see us turn a trapezoid in to a circle. From this lesson, I learned how to change the color of a part (by right clicking the part in the bottom left, then clicking edit appearance), which is super valuable later down the road, especially in assemblies.
+
+
+### Wheel
+
+
+<img src="Images/Screenshot%202020-09-21%20at%209.47.58%20PM.png" width="256>
+                                       
+                                                                       
+
+This the the Wheel. This is from Module 5. 
+Here is the Onshape File:
+
+[Wheeel](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/bac46bb1e6f9f600915a40fc)
+
+
+This part was a pretty fun one to design I thought. I really liked learning that you could change your view; to show or hide hidden edges. Also, it was cool to learn that selecting a face and trying to fillet that face, results in all edges of the face to recieve a fillet. Small stuff like that really helps boost my confidence as well as ability with Onshape.
+
+
+
