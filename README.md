@@ -71,4 +71,29 @@ Here is the Onshape File:
 This part was a pretty fun one to design I thought. I really liked learning that you could change your view; to show or hide hidden edges. Also, it was cool to learn that selecting a face and trying to fillet that face, results in all edges of the face to recieve a fillet. Small stuff like that really helps boost my confidence as well as ability with Onshape.
 
 
+### Axle, Collar, Bearings
+
+
+<img src="Images/Screenshot%202020-09-22%20at%204.22.13%20PM.png" width="256">
+
+<img src="Images/Screenshot%202020-09-22%20at%204.22.27%20PM.png" width="256">
+
+<img src="Images/Screenshot%202020-09-22%20at%204.23.06%20PM.png" width="256">
+
+
+This is the Axle, Collar, and Bearing. This is from modules 6-9.
+Here are the Onshape Files:
+
+[Axle](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/c9bab325a182d33864d236fd)
+
+[Collar](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/c9bab325a182d33864d236fd)
+
+[Bearing](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/3b6220d5c55b2dc0cd341610)
+
+
+These parts were pretty easy to design, especially after the Wheel. I feel like making the Big Bearing part was very straightforward, which I guess is a good sign. For the Axle and Collar part, it was helpful to use the Use/Project/Convert feature, which allows you to reference lines, vertexes, and edges that you have already made. 
+
+
+
+
 
