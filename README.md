@@ -43,7 +43,9 @@ This is my favorite part that we have made so far, as I think the fillets and ch
 
 ### Tire
 
+
 <img src="Images/Screenshot%202020-09-20%20at%206.12.26%20PM.png" width="256">
+
 
 This is the Tire. This is from Module 4.
 Here is the Onshape FIle:
