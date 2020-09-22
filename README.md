@@ -58,9 +58,9 @@ This was the first part that involved the revole feature. It is still cool to me
 ### Wheel
 
 
-<img src="Images/Screenshot%202020-09-21%20at%209.47.58%20PM.png" width="256>
+<img src="Images/Screenshot%202020-09-21%20at%209.47.58%20PM.png" width="256">
                                        
-                                                                       
+
 
 This the the Wheel. This is from Module 5. 
 Here is the Onshape File:
