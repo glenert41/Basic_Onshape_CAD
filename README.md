@@ -94,6 +94,20 @@ Here are the Onshape Files:
 These parts were pretty easy to design, especially after the Wheel. I feel like making the Big Bearing part was very straightforward, which I guess is a good sign. For the Axle and Collar part, it was helpful to use the Use/Project/Convert feature, which allows you to reference lines, vertexes, and edges that you have already made. 
 
 
+### Sub-Assembly
+
+
+<img src="Images/Screenshot%202020-09-23%20at%201.11.45%20PM.png" width="256">
+
+This is the Sub-Assembly. This is from the Sub-Assembly Module. 
+Here is Onshape File:
+
+[Sub-Assembly](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/adcc3e69b175d6d06010687c)
+
+
+This was the first time I have used Mates in Onshape. It honeslty was harder than I expected, compared to Solidworks. I was not used to the mate selector on OnShape, and at the moment, I still prefer the Solidworks way of mating. That being said, the Onshape mate selector feature definitely seems like a more streamlined way to mate parts.
+
+
 
 
 
