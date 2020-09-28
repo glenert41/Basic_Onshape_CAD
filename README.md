@@ -109,5 +109,19 @@ This was the first time I have used Mates in Onshape. It honeslty was harder tha
 
 
 
+### Final Assembly
+
+<img src="Images/Screenshot%202020-09-28%20at%205.02.21%20PM.png" width="256">
+
+
+<img src="Images/Screenshot%202020-09-28%20at%205.03.28%20PM.png" width="256">
+
+
+This is the Final Assembly. This is from the Final Caster Assembly Modules.
+Here is the Onshape File:
+
+[Final Assembly](https://cvilleschools.onshape.com/documents/3e800529a5d53c6bf3b12ad7/w/8dffd314e94bea2202dd8631/e/caebe5dfda4664341990c2fc)
+
+This was the final part of the Caster Assignment Base Assembly (The 10 Modules). This was pretty straightforward, and I am starting to feel a little more comfortable with Onshape's mating approach. I think the biggest take away for me was the Solve feature, especially in the Revolute mate. It was cool to see that all you had to do was click 2 of the mate connectors, click solve, and then your mate would be fully defined. Also, it was really helpful to be able to get the Screws, Nuts, and Pins without having to go through the long process of folders from the Solidworks Toolbox; Onshape is definitely more efficient and is more intuitive to me now.
 
 
