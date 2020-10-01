@@ -125,3 +125,27 @@ Here is the Onshape File:
 This was the final part of the Caster Assignment Base Assembly (The 10 Modules). This was pretty straightforward, and I am starting to feel a little more comfortable with Onshape's mating approach. I think the biggest take away for me was the Solve feature, especially in the Revolute mate. It was cool to see that all you had to do was click 2 of the mate connectors, click solve, and then your mate would be fully defined. Also, it was really helpful to be able to get the Screws, Nuts, and Pins without having to go through the long process of folders from the Solidworks Toolbox; Onshape is definitely more efficient and is more intuitive to me now.
 
 
+
+
+## Picture Frame (Dowel Pins)
+
+### Picture Frame
+
+<img src="Images/Screenshot%202020-10-01%20at%2011.13.47%20AM.png" width="256">
+
+
+<img src="Images/Screenshot%202020-10-01%20at%2011.13.54%20AM.png" width="256">
+
+This is the Picture Frame. This is from the Dorothy's Dowel Pins module.
+Here is the Onshape FIle:
+
+[Picture Frame](https://cvilleschools.onshape.com/documents/810195daa95fac4bfaed5f45/w/36091a1139bfeb7e6a005093/e/9079518065174b397b234f74)
+
+This is the Picture Frame; Made from 2 long trapezoids, 2 short trapezoids, 4 short Dowel Pins, and 4 Long Dowel Pins. Between the connection of each Trapezoid, there are 2 Dowel pins in order to increase the strength of the connection. In order to see the Dowel Pins, you must made Hidden Edges Visible from the Camera and Render Options dropdown on the right hand side of the screen.
+
+Moving on to the process itself, the biggest new thing we learned was how to use Configurations in Onshape. In Solidworks, configurations were honestly too difficult for me to use often, unless I had preplanned to use configurations and planned by whole assembly based off the configurations. However, in Onshape, using configurations is very simple. I think one of the things that make it so easy is the customization and simplicity of it. Especially in assemblies, being able to insert a very specific configuartion by just going through a checklist is super easy to use.
+
+
+
+
+
