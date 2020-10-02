@@ -136,6 +136,8 @@ This was the final part of the Caster Assignment Base Assembly (The 10 Modules).
 
 <img src="Images/Screenshot%202020-10-01%20at%2011.13.54%20AM.png" width="256">
 
+<img src="Images/Screenshot%202020-10-02%20at%2011.06.33%20AM.png" width="256">
+
 This is the Picture Frame. This is from the Dorothy's Dowel Pins module.
 Here is the Onshape FIle:
 
