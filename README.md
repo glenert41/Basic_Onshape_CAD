@@ -149,7 +149,3 @@ Moving on to the process itself, the biggest new thing we learned was how to use
 
 
 
-<img src="Images/Screenshot%202020-10-02%20at%2011.06.33%20AM.png" width="256">
-
-
-
