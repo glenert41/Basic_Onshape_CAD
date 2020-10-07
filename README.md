@@ -148,4 +148,17 @@ This is the Picture Frame; Made from 2 long trapezoids, 2 short trapezoids, 4 sh
 Moving on to the process itself, the biggest new thing we learned was how to use Configurations in Onshape. In Solidworks, configurations were honestly too difficult for me to use often, unless I had preplanned to use configurations and planned by whole assembly based off the configurations. However, in Onshape, using configurations is very simple. I think one of the things that make it so easy is the customization and simplicity of it. Especially in assemblies, being able to insert a very specific configuartion by just going through a checklist is super easy to use.
 
 
+## Onshape Challenge
+
+### Spinner
+
+<img src="Images/Screenshot%202020-10-07%20at%207.52.30%20PM.png" width="256">
+
+<img src="Images/Screenshot%202020-10-07%20at%207.52.21%20PM.png" width="256">
+
+<img src="Images/Screenshot%202020-10-07%20at%207.52.14%20PM.png" width="256">
+
+<img src="Images/Screenshot%202020-10-07%20at%207.48.00%20PM.png" width="256">
+
+
 
