@@ -161,4 +161,15 @@ Moving on to the process itself, the biggest new thing we learned was how to use
 <img src="Images/Screenshot%202020-10-07%20at%207.48.00%20PM.png" width="256">
 
 
+This is the Spinner. This is from the Onshape Challenge Module:
+Here is the Onshape file:
+
+[Spinner](https://cvilleschools.onshape.com/documents/c269e286ee8ce4484edde752/w/57dff731fddf0e89767151e5/e/586376fd9409db9ccbe9ebab)
+
+
+This module took quite a bit of patience; more than all the others did. I think the toughest part was trying to figure out how to mate the pieces together. This took plenty of research online and collaboration with friends to find when to use which mate when. Cylindrical mates definitely helped out the most, allowing for the stem of the fork to rotate and move while staying within its cylinder. I feel more comfortable with the Onshape mating system now. Also, making the sketch a the Onshape equivalent of a Thin Feature was pretty straightforward after I understood how to do it (Just extruding the surface and then thickening the surface). That all being said, I really enjoyed working on this module.
+
+
+
+
 
